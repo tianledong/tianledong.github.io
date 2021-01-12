@@ -1033,3 +1033,8 @@ footer .credits a {
 .d-grid {
   display: grid !important;
 }
+
+.font-size-nav-ico {
+  font-size: 1.5rem;
+  line-height: 1.4;
+}
