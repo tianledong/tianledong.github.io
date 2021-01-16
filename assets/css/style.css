@@ -1040,3 +1040,10 @@ footer .credits a {
   font-size: 1.5rem;
   line-height: 1.4;
 }
+
+@media (min-width: 768px) {
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding-right: .1rem;
+    padding-left: .1rem;
+  }
+}
